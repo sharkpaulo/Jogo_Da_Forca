@@ -1,0 +1,15 @@
+C:\Users\Paulo Santos\source\repos\JogoDaForca\JogoDaForca\bin\Debug\net6.0\JogoDaForca.exe
+C:\Users\Paulo Santos\source\repos\JogoDaForca\JogoDaForca\bin\Debug\net6.0\JogoDaForca.deps.json
+C:\Users\Paulo Santos\source\repos\JogoDaForca\JogoDaForca\bin\Debug\net6.0\JogoDaForca.runtimeconfig.json
+C:\Users\Paulo Santos\source\repos\JogoDaForca\JogoDaForca\bin\Debug\net6.0\JogoDaForca.dll
+C:\Users\Paulo Santos\source\repos\JogoDaForca\JogoDaForca\bin\Debug\net6.0\JogoDaForca.pdb
+C:\Users\Paulo Santos\source\repos\JogoDaForca\JogoDaForca\obj\Debug\net6.0\JogoDaForca.csproj.AssemblyReference.cache
+C:\Users\Paulo Santos\source\repos\JogoDaForca\JogoDaForca\obj\Debug\net6.0\JogoDaForca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paulo Santos\source\repos\JogoDaForca\JogoDaForca\obj\Debug\net6.0\JogoDaForca.AssemblyInfoInputs.cache
+C:\Users\Paulo Santos\source\repos\JogoDaForca\JogoDaForca\obj\Debug\net6.0\JogoDaForca.AssemblyInfo.cs
+C:\Users\Paulo Santos\source\repos\JogoDaForca\JogoDaForca\obj\Debug\net6.0\JogoDaForca.csproj.CoreCompileInputs.cache
+C:\Users\Paulo Santos\source\repos\JogoDaForca\JogoDaForca\obj\Debug\net6.0\JogoDaForca.dll
+C:\Users\Paulo Santos\source\repos\JogoDaForca\JogoDaForca\obj\Debug\net6.0\refint\JogoDaForca.dll
+C:\Users\Paulo Santos\source\repos\JogoDaForca\JogoDaForca\obj\Debug\net6.0\JogoDaForca.pdb
+C:\Users\Paulo Santos\source\repos\JogoDaForca\JogoDaForca\obj\Debug\net6.0\JogoDaForca.genruntimeconfig.cache
+C:\Users\Paulo Santos\source\repos\JogoDaForca\JogoDaForca\obj\Debug\net6.0\ref\JogoDaForca.dll
